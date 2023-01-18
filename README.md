@@ -1,6 +1,4 @@
-# Group_nikethaanand_divyadharshini
-CS5010 repo for Fall2022; Northeastern Seattle.
-
+# Chatroom
 While running the project run in this order:
 	1)Server
 	2)Client
