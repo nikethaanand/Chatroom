@@ -1,5 +1,5 @@
 /**
- * @author divyadharshinimuruganandham  nikethaanand
+ * @author   nikethaanand
  */
 import java.net.Socket;
 import java.nio.charset.StandardCharsets;
