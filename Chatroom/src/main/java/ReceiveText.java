@@ -1,5 +1,5 @@
 /**
- * @author divyadharshinimuruganandham  nikethaanand
+ * @author   nikethaanand
  */
 import java.io.BufferedReader;
 import java.io.DataInputStream;
