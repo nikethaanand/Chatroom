@@ -1,6 +1,6 @@
 package ExceptionHandling;
 /**
- * @author divyadharshinimuruganandham  nikethaanand
+ * @author  nikethaanand
  */
 public class ChatTypeException extends Throwable {
     /**
